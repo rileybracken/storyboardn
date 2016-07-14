@@ -37,11 +37,11 @@ Week 4:
 
 ### Xcode UI
 Creating a new project:
-![](https://raw.githubusercontent.com/underbelly/storyboardn/screenshots/screen-1.png)
-![](https://raw.githubusercontent.com/underbelly/storyboardn/screenshots/screen-2.png)
+![](https://raw.githubusercontent.com/underbelly/storyboardn/master/screenshots/screen-1.png)
+![](https://raw.githubusercontent.com/underbelly/storyboardn/master/screenshots/screen-2.png)
 
 App settings:
-![](https://raw.githubusercontent.com/underbelly/storyboardn/screenshots/screen-3.png)
+![](https://raw.githubusercontent.com/underbelly/storyboardn/master/screenshots/screen-3.png)
 
 Project Navigator:
 Utilities:
@@ -50,5 +50,5 @@ Assistant Editor:
 Simulator:
 
 ### View Controllers
-![](https://raw.githubusercontent.com/underbelly/storyboardn/screenshots/screen-4.png)
-![](https://raw.githubusercontent.com/underbelly/storyboardn/screenshots/screen-5.png)
+![](https://raw.githubusercontent.com/underbelly/storyboardn/master/screenshots/screen-4.png)
+![](https://raw.githubusercontent.com/underbelly/storyboardn/master/screenshots/screen-5.png)
